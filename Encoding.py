@@ -6,6 +6,7 @@ import pandas as pd
 #วิธีเช็คชนิดข้อมูลในตาราง ใช้ print(df.dtypes)
 df = pd.read_csv ('randomname.csv',encoding='utf-8',header=None)
 
+
 print(df.dtypes)
 
 
