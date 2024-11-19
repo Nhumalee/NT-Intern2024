@@ -33,7 +33,7 @@ random_product3['H'] = np.random.choice(['แมว', 'สุนัข', 'กร
 
 merged_df = pd.merge(random_product1, random_product2, on='PRODUCT_KEY', how='outer')
 merged_df = pd.merge(merged_df, random_product3, on='PRODUCT_KEY', how='outer')
-#merged_df= pd.merge(merged_df, random_product3, on='PRODUCT_KEY',how='outer')
+
 # แสดงผลลัพธ์ DataFrame ที่รวมข้อมูล
 #print(random_product3)
 merged_df.to_csv('product_py.csv', index=False, encoding='utf-8-sig')
