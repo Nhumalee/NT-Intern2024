@@ -1,0 +1,264 @@
+﻿REVENUE_GROUP_TYPE,ITEM,BUSINESS_GROUP,SUB_ITEM,SERVICE_GROUP,PRODUCT_KEY,PRODUCT_NAME,BUSINESS,SERVICE,PRODUCT
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.1,กลุ่มบริการท่อร้อยสาย,181030004,บริการท่อร้อยสาย,1 Hard Infrastructure,1.1 กลุ่มบริการท่อร้อยสาย,181030004 บริการท่อร้อยสาย
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.2,กลุ่มบริการ Dark Fiber,181030006,บริการโครงข่าย-Dark Fiber,1 Hard Infrastructure,1.2 กลุ่มบริการ Dark Fiber,181030006 บริการโครงข่าย-Dark Fiber
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.2,กลุ่มบริการ Dark Fiber,201020003,บริการ Last Mile Access,1 Hard Infrastructure,1.2 กลุ่มบริการ Dark Fiber,201020003 บริการ Last Mile Access
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.2,กลุ่มบริการ Dark Fiber,201020004,บริการ - ใช้เส้นใยแก้วนำแสง,1 Hard Infrastructure,1.2 กลุ่มบริการ Dark Fiber,201020004 บริการ - ใช้เส้นใยแก้วนำแสง
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.2,กลุ่มบริการ Dark Fiber,201030008,บริการเสาโทรคมนาคม DPC,1 Hard Infrastructure,1.2 กลุ่มบริการ Dark Fiber,201030008 บริการเสาโทรคมนาคม DPC
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.3,กลุ่มบริการเสาโทรคมนาคม (Tower),104070001,บริการเสาโทรคมนาคม (Tower) - CAT,1 Hard Infrastructure,1.3 กลุ่มบริการเสาโทรคมนาคม (Tower),104070001 บริการเสาโทรคมนาคม (Tower) - CAT
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.3,กลุ่มบริการเสาโทรคมนาคม (Tower),104070002,บริการโครงข่ายร่วม - BFKT,1 Hard Infrastructure,1.3 กลุ่มบริการเสาโทรคมนาคม (Tower),104070002 บริการโครงข่ายร่วม - BFKT
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.3,กลุ่มบริการเสาโทรคมนาคม (Tower),104070003,บริการโครงข่ายร่วม,1 Hard Infrastructure,1.3 กลุ่มบริการเสาโทรคมนาคม (Tower),104070003 บริการโครงข่ายร่วม
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.3,กลุ่มบริการเสาโทรคมนาคม (Tower),104070004,บริการโครงข่ายร่วม-TUC,1 Hard Infrastructure,1.3 กลุ่มบริการเสาโทรคมนาคม (Tower),104070004 บริการโครงข่ายร่วม-TUC
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.3,กลุ่มบริการเสาโทรคมนาคม (Tower),201030003,บริการ - ใช้เสาโทรคมนาคม-โครงสร้างพื้นฐาน,1 Hard Infrastructure,1.3 กลุ่มบริการเสาโทรคมนาคม (Tower),201030003 บริการ - ใช้เสาโทรคมนาคม-โครงสร้างพื้นฐาน
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.3,กลุ่มบริการเสาโทรคมนาคม (Tower),201030004,บริการ - เสา-FL&BB,1 Hard Infrastructure,1.3 กลุ่มบริการเสาโทรคมนาคม (Tower),201030004 บริการ - เสา-FL&BB
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.3,กลุ่มบริการเสาโทรคมนาคม (Tower),201030005,บริการเสาโทรคมนาคม NT,1 Hard Infrastructure,1.3 กลุ่มบริการเสาโทรคมนาคม (Tower),201030005 บริการเสาโทรคมนาคม NT
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.3,กลุ่มบริการเสาโทรคมนาคม (Tower),201030006,บริการเสาโทรคมนาคม TUC,1 Hard Infrastructure,1.3 กลุ่มบริการเสาโทรคมนาคม (Tower),201030006 บริการเสาโทรคมนาคม TUC
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.3,กลุ่มบริการเสาโทรคมนาคม (Tower),201030007,บริการเสาโทรคมนาคม DTN,1 Hard Infrastructure,1.3 กลุ่มบริการเสาโทรคมนาคม (Tower),201030007 บริการเสาโทรคมนาคม DTN
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,181040001,พัฒนาสินทรัพย์-บางรัก,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,181040001 พัฒนาสินทรัพย์-บางรัก
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,181050005,พัฒนาสินทรัพย์-สำนักงานใหญ่,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,181050005 พัฒนาสินทรัพย์-สำนักงานใหญ่
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,181050006,พัฒนาสินทรัพย์-นนทบุรี,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,181050006 พัฒนาสินทรัพย์-นนทบุรี
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,181050007,พัฒนาสินทรัพย์อื่น,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,181050007 พัฒนาสินทรัพย์อื่น
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,181050008,อาคารที่พักผู้ปฏิบัติงานและหอพัก - หลักสี่,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,181050008 อาคารที่พักผู้ปฏิบัติงานและหอพัก - หลักสี่
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,181050012,การเช่าพื้นที่สถานีดาวเทียมไทยคม นนทบุรี,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,181050012 การเช่าพื้นที่สถานีดาวเทียมไทยคม นนทบุรี
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,181050013,พัฒนาสินทรัพย์-สิรินธร,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,181050013 พัฒนาสินทรัพย์-สิรินธร
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,181050014,พัฒนาสินทรัพย์-ศรีราชา,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,181050014 พัฒนาสินทรัพย์-ศรีราชา
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,181050099,บริการเช่าใช้ระบบไฟฟ้า ,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,181050099 บริการเช่าใช้ระบบไฟฟ้า 
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,201040011,บริการ - บริการ-เช่าใช้ที่ดิน,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,201040011 บริการ - บริการ-เช่าใช้ที่ดิน
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,201040012,บริการ - เช่า/ใช้พื้นที่อาคาร-โครงสร้างพื้นฐาน,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,201040012 บริการ - เช่า/ใช้พื้นที่อาคาร-โครงสร้างพื้นฐาน
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,201040013,บริการ - ใช้ถนน,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,201040013 บริการ - ใช้ถนน
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,201040014,บริการ - เช่าใช้ระบบไฟฟ้ากำลัง,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,201040014 บริการ - เช่าใช้ระบบไฟฟ้ากำลัง
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,201040015,บริการ - เช่าใช้ระบบปรับอากาศ,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,201040015 บริการ - เช่าใช้ระบบปรับอากาศ
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,201040016,บริการ - ใช้สาธารณูปโภค (ไฟฟ้า/น้ำประปา),1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,201040016 บริการ - ใช้สาธารณูปโภค (ไฟฟ้า/น้ำประปา)
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,201040017,บริการ - เช่าร้านค้าแผงลอย,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,201040017 บริการ - เช่าร้านค้าแผงลอย
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,201040018,บริการ - ใช้หอพัก,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,201040018 บริการ - ใช้หอพัก
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,201040019,บริการ - อาคาร - FL&BB,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,201040019 บริการ - อาคาร - FL&BB
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,201040020,บริการเพื่อการกีฬา,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,201040020 บริการเพื่อการกีฬา
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,201040021,พัฒนาสินทรัพย์-สำนักงานแจ้งวัฒนะ,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,201040021 พัฒนาสินทรัพย์-สำนักงานแจ้งวัฒนะ
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,201040022,พัฒนาสินทรัพย์-งามวงค์วาน,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,201040022 พัฒนาสินทรัพย์-งามวงค์วาน
+รายได้บริการโทรคมนาคม,1,Hard Infrastructure,1.4,กลุ่มบริการพัฒนาสินทรัพย์,201040023,พัฒนาสินทรัพย์-หน่วยงานพื้นที่,1 Hard Infrastructure,1.4 กลุ่มบริการพัฒนาสินทรัพย์,201040023 พัฒนาสินทรัพย์-หน่วยงานพื้นที่
+รายได้บริการโทรคมนาคม,2,International,2.1,กลุ่มบริการ IIG (International Internet Gateway),202010001,บริการ IIG,2 International,2.1 กลุ่มบริการ IIG (International Internet Gateway),202010001 บริการ IIG
+รายได้บริการโทรคมนาคม,2,International,2.3,กลุ่มบริการ Connectivity,202030001,บริการ NT MPLS International,2 International,2.3 กลุ่มบริการ Connectivity,202030001 บริการ NT MPLS International
+รายได้บริการโทรคมนาคม,2,International,2.3,กลุ่มบริการ Connectivity,202030002,บริการ Ethernet International,2 International,2.3 กลุ่มบริการ Connectivity,202030002 บริการ Ethernet International
+รายได้บริการโทรคมนาคม,2,International,2.3,กลุ่มบริการ Connectivity,202030003,บริการ Private Line International,2 International,2.3 กลุ่มบริการ Connectivity,202030003 บริการ Private Line International
+รายได้บริการโทรคมนาคม,2,International,2.4,กลุ่มบริการเคเบิลใต้น้ำ,181030005,บริการโครงการยกระดับโครงสร้างพื้นฐาน NT-DE,2 International,2.4 กลุ่มบริการเคเบิลใต้น้ำ,181030005 บริการโครงการยกระดับโครงสร้างพื้นฐาน NT-DE
+รายได้บริการโทรคมนาคม,2,International,2.4,กลุ่มบริการเคเบิลใต้น้ำ,181034200,สินค้าโครงการยกระดับฯ   DE- NT,2 International,2.4 กลุ่มบริการเคเบิลใต้น้ำ,181034200 สินค้าโครงการยกระดับฯ   DE- NT
+รายได้บริการโทรคมนาคม,2,International,2.4,กลุ่มบริการเคเบิลใต้น้ำ,202040002,บริการติดตั้งซ่อมบำรุงเคเบิลใต้น้ำ (Submarine),2 International,2.4 กลุ่มบริการเคเบิลใต้น้ำ,202040002 บริการติดตั้งซ่อมบำรุงเคเบิลใต้น้ำ (Submarine)
+รายได้บริการโทรคมนาคม,2,International,2.4,กลุ่มบริการเคเบิลใต้น้ำ,202040003,บริการเคเบิลใต้น้ำ,2 International,2.4 กลุ่มบริการเคเบิลใต้น้ำ,202040003 บริการเคเบิลใต้น้ำ
+รายได้บริการโทรคมนาคม,2,International,2.4,กลุ่มบริการเคเบิลใต้น้ำ,202040004,บริการสถานีเคเบิลใต้น้ำ,2 International,2.4 กลุ่มบริการเคเบิลใต้น้ำ,202040004 บริการสถานีเคเบิลใต้น้ำ
+รายได้บริการโทรคมนาคม,2,International,2.5,กลุ่มบริการ IDD,202050001,Retail IDD - Premium,2 International,2.5 กลุ่มบริการ IDD,202050001 Retail IDD - Premium
+รายได้บริการโทรคมนาคม,2,International,2.5,กลุ่มบริการ IDD,202050002,Retail IDD - ECO,2 International,2.5 กลุ่มบริการ IDD,202050002 Retail IDD - ECO
+รายได้บริการโทรคมนาคม,2,International,2.5,กลุ่มบริการ IDD,202050003,Toll Free - International,2 International,2.5 กลุ่มบริการ IDD,202050003 Toll Free - International
+รายได้บริการโทรคมนาคม,2,International,2.5,กลุ่มบริการ IDD,202050004,Wholesale IDD,2 International,2.5 กลุ่มบริการ IDD,202050004 Wholesale IDD
+รายได้บริการโทรคมนาคม,2,International,2.5,กลุ่มบริการ IDD,202050005,International Transit and Termination,2 International,2.5 กลุ่มบริการ IDD,202050005 International Transit and Termination
+รายได้บริการโทรคมนาคม,2,International,2.5,กลุ่มบริการ IDD,202050007,Calling Card - International,2 International,2.5 กลุ่มบริการ IDD,202050007 Calling Card - International
+รายได้บริการโทรคมนาคม,2,International,2.5,กลุ่มบริการ IDD,202050008,SCCP,2 International,2.5 กลุ่มบริการ IDD,202050008 SCCP
+รายได้บริการโทรคมนาคม,2,International,2.5,กลุ่มบริการ IDD,202050009,others,2 International,2.5 กลุ่มบริการ IDD,202050009 others
+รายได้บริการโทรคมนาคม,3,Mobile,3.1,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060001,บริการ HSPA-ขายส่ง,3 Mobile,3.1 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060001 บริการ HSPA-ขายส่ง
+รายได้บริการโทรคมนาคม,3,Mobile,3.1,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060002,บริการข้ามเครือข่ายในประเทศ (DR)-HSPA,3 Mobile,3.1 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060002 บริการข้ามเครือข่ายในประเทศ (DR)-HSPA
+รายได้บริการโทรคมนาคม,3,Mobile,3.1,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060003,บริการข้ามเครือข่ายระหว่างประเทศ (IR)-HSPA,3 Mobile,3.1 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060003 บริการข้ามเครือข่ายระหว่างประเทศ (IR)-HSPA
+รายได้บริการโทรคมนาคม,3,Mobile,3.1,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060004,บริการ ค่าบริหารจัดการเพื่อสนับสนุน MNP,3 Mobile,3.1 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060004 บริการ ค่าบริหารจัดการเพื่อสนับสนุน MNP
+รายได้บริการโทรคมนาคม,3,Mobile,3.1,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060005,บริการ IC Transit-Wholesale,3 Mobile,3.1 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060005 บริการ IC Transit-Wholesale
+รายได้บริการโทรคมนาคม,3,Mobile,3.1,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060008,บริการข้ามเครือข่าย (Roaming) - 2G,3 Mobile,3.1 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060008 บริการข้ามเครือข่าย (Roaming) - 2G
+รายได้บริการโทรคมนาคม,3,Mobile,3.1,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060010,ค่าใช้ระบบ MVNE สนับสนุนบริการขายส่ง,3 Mobile,3.1 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060010 ค่าใช้ระบบ MVNE สนับสนุนบริการขายส่ง
+รายได้บริการโทรคมนาคม,3,Mobile,3.1,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060011,ค่าใช้ระบบ HLR สนับสนุนบริการขายส่ง,3 Mobile,3.1 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060011 ค่าใช้ระบบ HLR สนับสนุนบริการขายส่ง
+รายได้บริการโทรคมนาคม,3,Mobile,3.1,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060012,บริการ Private APN,3 Mobile,3.1 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060012 บริการ Private APN
+รายได้บริการโทรคมนาคม,3,Mobile,3.1,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060013,บริการ ค่าบริหารจัดการ,3 Mobile,3.1 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104060013 บริการ ค่าบริหารจัดการ
+รายได้บริการโทรคมนาคม,3,Mobile,3.1,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104069901,บริการโทรคมนาคมที่เกี่ยวเนื่อง-Wholesale,3 Mobile,3.1 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),104069901 บริการโทรคมนาคมที่เกี่ยวเนื่อง-Wholesale
+รายได้บริการโทรคมนาคม,3,Mobile,3.1,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),203010001,บริการโทรศัพท์เคลื่อนที่พันธมิตร 2100 MHz,3 Mobile,3.1 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),203010001 บริการโทรศัพท์เคลื่อนที่พันธมิตร 2100 MHz
+รายได้บริการโทรคมนาคม,3,Mobile,3.1,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),203010002,บริการโทรศัพท์เคลื่อนที่พันธมิตร 2300 MHz,3 Mobile,3.1 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),203010002 บริการโทรศัพท์เคลื่อนที่พันธมิตร 2300 MHz
+รายได้บริการโทรคมนาคม,3,Mobile,3.1,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),203020012,บริการขายส่งโทรศัพท์เคลื่อนที่,3 Mobile,3.1 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),203020012 บริการขายส่งโทรศัพท์เคลื่อนที่
+รายได้บริการโทรคมนาคม,3,Mobile,3.1,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),203030006,บริการเรียกออกกรณีใช้เครือข่ายร่วม (Roaming) - MVNO,3 Mobile,3.1 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าส่ง (Wholesale),203030006 บริการเรียกออกกรณีใช้เครือข่ายร่วม (Roaming) - MVNO
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104010007,บริการ IC-my-Transit,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104010007 บริการ IC-my-Transit
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104010008,บริการ IC- my-Orgination,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104010008 บริการ IC- my-Orgination
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104010009,บริการ IC - my- Termination,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104010009 บริการ IC - my- Termination
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104010010,บริการ IC - my- SMS,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104010010 บริการ IC - my- SMS
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104010011,บริการ ค่าดำเนินงานโครงการและบริการอื่น ๆ,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104010011 บริการ ค่าดำเนินงานโครงการและบริการอื่น ๆ
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104010012,บริการ IC - my MMS,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104010012 บริการ IC - my MMS
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104010021,บริการ my,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104010021 บริการ my
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104014100,สินค้าโทรคมนาคม,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104014100 สินค้าโทรคมนาคม
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104014101,สินค้าโทรคมนาคม (NT mobile),3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104014101 สินค้าโทรคมนาคม (NT mobile)
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104019901,รายได้โทรฯอื่นที่เกี่ยวเนื่อง-โทรศัพท์เคลื่อนที่,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),104019901 รายได้โทรฯอื่นที่เกี่ยวเนื่อง-โทรศัพท์เคลื่อนที่
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203030004,บริการโทรศัพท์เคลื่อนที่ NT Mobile,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203030004 บริการโทรศัพท์เคลื่อนที่ NT Mobile
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203030005,บริการ mobile siptrunk,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203030005 บริการ mobile siptrunk
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203030008,บริการวงจร Mobile,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203030008 บริการวงจร Mobile
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203030009,บริการเรียกออกกรณีใช้เครือข่ายร่วม (Roaming) - Retail,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203030009 บริการเรียกออกกรณีใช้เครือข่ายร่วม (Roaming) - Retail
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203030010,บริการ NT Wireless Net,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203030010 บริการ NT Wireless Net
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203050099,บริการอื่น-Mobile,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203050099 บริการอื่น-Mobile
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203070002,บริการ my 5G 700 MHz,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203070002 บริการ my 5G 700 MHz
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203070004,บริการ IC-700MHz-Transit,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203070004 บริการ IC-700MHz-Transit
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203070005,บริการ IC-700MHz-Origination,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203070005 บริการ IC-700MHz-Origination
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203070006,บริการ IC-700MHz-Termination,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203070006 บริการ IC-700MHz-Termination
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203070007,บริการ IC-700MHz-SMS,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203070007 บริการ IC-700MHz-SMS
+รายได้บริการโทรคมนาคม,3,Mobile,3.2,บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203070008,บริการ IC-700MHz-MMS,3 Mobile,3.2 บริการโทรคมนาคมสื่อสารไร้สาย - กลุ่มค้าปลีก (Retail),203070008 บริการ IC-700MHz-MMS
+รายได้บริการโทรคมนาคม,3,Mobile,3.3,บริการ Trunk Radio,104040002,บริการวิทยุคมนาคมเคลื่อนที่,3 Mobile,3.3 บริการ Trunk Radio,104040002 บริการวิทยุคมนาคมเคลื่อนที่
+รายได้บริการโทรคมนาคม,3,Mobile,3.3,บริการ Trunk Radio,104040005,บริการวิทยุเฉพาะกิจ Trunked Mobile,3 Mobile,3.3 บริการ Trunk Radio,104040005 บริการวิทยุเฉพาะกิจ Trunked Mobile
+รายได้บริการโทรคมนาคม,3,Mobile,3.3,บริการ Trunk Radio,104040006,บริการวิทยุคมนาคม,3 Mobile,3.3 บริการ Trunk Radio,104040006 บริการวิทยุคมนาคม
+รายได้บริการโทรคมนาคม,3,Mobile,3.3,บริการ Trunk Radio,104044100,บริการวิทยุคมฯ-ส.โทรฯ,3 Mobile,3.3 บริการ Trunk Radio,104044100 บริการวิทยุคมฯ-ส.โทรฯ
+รายได้บริการโทรคมนาคม,3,Mobile,3.3,บริการ Trunk Radio,104049901,บริการโทรคมนาคมอื่นที่เกี่ยวเนื่อง-วิทยุคมนาคม,3 Mobile,3.3 บริการ Trunk Radio,104049901 บริการโทรคมนาคมอื่นที่เกี่ยวเนื่อง-วิทยุคมนาคม
+รายได้บริการโทรคมนาคม,3,Mobile,3.3,บริการ Trunk Radio,104050001,บริการวิทยุคมนาคมติดต่อเรือเดินทะเล,3 Mobile,3.3 บริการ Trunk Radio,104050001 บริการวิทยุคมนาคมติดต่อเรือเดินทะเล
+รายได้บริการโทรคมนาคม,3,Mobile,3.3,บริการ Trunk Radio,104054100,บริการวิทยุเรือฯ-ส.โทรฯ,3 Mobile,3.3 บริการ Trunk Radio,104054100 บริการวิทยุเรือฯ-ส.โทรฯ
+รายได้บริการโทรคมนาคม,3,Mobile,3.3,บริการ Trunk Radio,104059901,บริการโทรคมนาคมอื่นที่เกี่ยวเนื่อง-วิทยุเรือ,3 Mobile,3.3 บริการ Trunk Radio,104059901 บริการโทรคมนาคมอื่นที่เกี่ยวเนื่อง-วิทยุเรือ
+รายได้บริการโทรคมนาคม,3,Mobile,3.4,"บริการเครื่องและอุปกรณ์ 2G, 3G, 4G & Shared Antenna",104100001,"บริการเครื่องและอุปกรณ์ 2G,3G,4G",3 Mobile,"3.4 บริการเครื่องและอุปกรณ์ 2G, 3G, 4G & Shared Antenna","104100001 บริการเครื่องและอุปกรณ์ 2G,3G,4G"
+รายได้บริการโทรคมนาคม,3,Mobile,3.5,บริการ IoT Connectivity,203060001,บริการ Connectivity Hub,3 Mobile,3.5 บริการ IoT Connectivity,203060001 บริการ Connectivity Hub
+รายได้บริการโทรคมนาคม,3,Mobile,3.6,บริการ 5G Solutions,203070001,บริการ 5G เพื่อพัฒนาเศรษฐกิจและสังคม,3 Mobile,3.6 บริการ 5G Solutions,203070001 บริการ 5G เพื่อพัฒนาเศรษฐกิจและสังคม
+รายได้บริการโทรคมนาคม,3,Mobile,3.6,บริการ 5G Solutions,203070003,5G Smart Pole,3 Mobile,3.6 บริการ 5G Solutions,203070003 5G Smart Pole
+รายได้บริการโทรคมนาคม,3,Mobile,3.7,บริการ CDMA ภูมิภาคและส่วนกลาง,104020001,บริการ CDMA ภูมิภาค,3 Mobile,3.7 บริการ CDMA ภูมิภาคและส่วนกลาง,104020001 บริการ CDMA ภูมิภาค
+รายได้บริการโทรคมนาคม,3,Mobile,3.7,บริการ CDMA ภูมิภาคและส่วนกลาง,104030001,บริการ CDMA ส่วนกลาง,3 Mobile,3.7 บริการ CDMA ภูมิภาคและส่วนกลาง,104030001 บริการ CDMA ส่วนกลาง
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.1,บริการ Wholesale Broadband,204010001,บริการอินเทอร์เน็ตกับพันธมิตร (BVNO),4 Fixed Line & Broadband,4.1 บริการ Wholesale Broadband,204010001 บริการอินเทอร์เน็ตกับพันธมิตร (BVNO)
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.2,กลุ่มบริการ Internet Retail,102020018,บริการเสริม Broadband,4 Fixed Line & Broadband,4.2 กลุ่มบริการ Internet Retail,102020018 บริการเสริม Broadband
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.2,กลุ่มบริการ Internet Retail,102020019,บริการ NT Broadband,4 Fixed Line & Broadband,4.2 กลุ่มบริการ Internet Retail,102020019 บริการ NT Broadband
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.2,กลุ่มบริการ Internet Retail,102020020,บริการ NT WiFi,4 Fixed Line & Broadband,4.2 กลุ่มบริการ Internet Retail,102020020 บริการ NT WiFi
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.2,กลุ่มบริการ Internet Retail,102029901,บริการอื่น Broadband,4 Fixed Line & Broadband,4.2 กลุ่มบริการ Internet Retail,102029901 บริการอื่น Broadband
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.2,กลุ่มบริการ Internet Retail,204029999,Internet NT2,4 Fixed Line & Broadband,4.2 กลุ่มบริการ Internet Retail,204029999 Internet NT2
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.3,กลุ่มบริการวงจรเช่า (Datacom),102010503,บริการ NT NSI,4 Fixed Line & Broadband,4.3 กลุ่มบริการวงจรเช่า (Datacom),102010503 บริการ NT NSI
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.3,กลุ่มบริการวงจรเช่า (Datacom),102010504,บริการCPE,4 Fixed Line & Broadband,4.3 กลุ่มบริการวงจรเช่า (Datacom),102010504 บริการCPE
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.3,กลุ่มบริการวงจรเช่า (Datacom),102010505,บริการ Inhouse connect,4 Fixed Line & Broadband,4.3 กลุ่มบริการวงจรเช่า (Datacom),102010505 บริการ Inhouse connect
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.3,กลุ่มบริการวงจรเช่า (Datacom),102019901,บริการโทรคมนาคมอื่นที่เกี่ยวเนื่อง-สื่อสารข้อมูลอื่น,4 Fixed Line & Broadband,4.3 กลุ่มบริการวงจรเช่า (Datacom),102019901 บริการโทรคมนาคมอื่นที่เกี่ยวเนื่อง-สื่อสารข้อมูลอื่น
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.3,กลุ่มบริการวงจรเช่า (Datacom),102020014,บริการ NT SD-WAN,4 Fixed Line & Broadband,4.3 กลุ่มบริการวงจรเช่า (Datacom),102020014 บริการ NT SD-WAN
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.3,กลุ่มบริการวงจรเช่า (Datacom),102020017,NT Corporate Internet,4 Fixed Line & Broadband,4.3 กลุ่มบริการวงจรเช่า (Datacom),102020017 NT Corporate Internet
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.3,กลุ่มบริการวงจรเช่า (Datacom),204030001,บริการ NT MPLS,4 Fixed Line & Broadband,4.3 กลุ่มบริการวงจรเช่า (Datacom),204030001 บริการ NT MPLS
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.3,กลุ่มบริการวงจรเช่า (Datacom),204030004,บริการ NT Carrier Ethernet,4 Fixed Line & Broadband,4.3 กลุ่มบริการวงจรเช่า (Datacom),204030004 บริการ NT Carrier Ethernet
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.3,กลุ่มบริการวงจรเช่า (Datacom),204030005,บริการ NT Private Line,4 Fixed Line & Broadband,4.3 กลุ่มบริการวงจรเช่า (Datacom),204030005 บริการ NT Private Line
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.3,กลุ่มบริการวงจรเช่า (Datacom),204030007,บริการ DSL-VPN,4 Fixed Line & Broadband,4.3 กลุ่มบริการวงจรเช่า (Datacom),204030007 บริการ DSL-VPN
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.3,กลุ่มบริการวงจรเช่า (Datacom),204030012,บริการคู่สายเช่า วงจรเช่า,4 Fixed Line & Broadband,4.3 กลุ่มบริการวงจรเช่า (Datacom),204030012 บริการคู่สายเช่า วงจรเช่า
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.3,กลุ่มบริการวงจรเช่า (Datacom),204030013,บริการ DDN (Digital Data Network),4 Fixed Line & Broadband,4.3 กลุ่มบริการวงจรเช่า (Datacom),204030013 บริการ DDN (Digital Data Network)
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.4,บริการโทรศัพท์ประจำที่ (Fixed Line),204040002,NT Home Phone,4 Fixed Line & Broadband,4.4 บริการโทรศัพท์ประจำที่ (Fixed Line),204040002 NT Home Phone
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.4,บริการโทรศัพท์ประจำที่ (Fixed Line),204040004,NT Business Trunk Line,4 Fixed Line & Broadband,4.4 บริการโทรศัพท์ประจำที่ (Fixed Line),204040004 NT Business Trunk Line
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.4,บริการโทรศัพท์ประจำที่ (Fixed Line),204040005,NT Business Cloud PBX,4 Fixed Line & Broadband,4.4 บริการโทรศัพท์ประจำที่ (Fixed Line),204040005 NT Business Cloud PBX
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.4,บริการโทรศัพท์ประจำที่ (Fixed Line),204040006,บริการเสริม Fixed Line,4 Fixed Line & Broadband,4.4 บริการโทรศัพท์ประจำที่ (Fixed Line),204040006 บริการเสริม Fixed Line
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.4,บริการโทรศัพท์ประจำที่ (Fixed Line),204040099,บริการอื่น - Fixed Line,4 Fixed Line & Broadband,4.4 บริการโทรศัพท์ประจำที่ (Fixed Line),204040099 บริการอื่น - Fixed Line
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.4,บริการโทรศัพท์ประจำที่ (Fixed Line),204050005,NT Interconnect,4 Fixed Line & Broadband,4.4 บริการโทรศัพท์ประจำที่ (Fixed Line),204050005 NT Interconnect
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.4,บริการโทรศัพท์ประจำที่ (Fixed Line),204050006,Wholesale-Fixed Line,4 Fixed Line & Broadband,4.4 บริการโทรศัพท์ประจำที่ (Fixed Line),204050006 Wholesale-Fixed Line
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.5,กลุ่มบริการ Satellite NT,102010401,บริการ NT TV Transmission,4 Fixed Line & Broadband,4.5 กลุ่มบริการ Satellite NT,102010401 บริการ NT TV Transmission
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.5,กลุ่มบริการ Satellite NT,102010402,บริการ NT GlobeSat,4 Fixed Line & Broadband,4.5 กลุ่มบริการ Satellite NT,102010402 บริการ NT GlobeSat
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.5,กลุ่มบริการ Satellite NT,102010403,บริการ INMARSAT,4 Fixed Line & Broadband,4.5 กลุ่มบริการ Satellite NT,102010403 บริการ INMARSAT
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.5,กลุ่มบริการ Satellite NT,102010404,บริการ NT iP Star,4 Fixed Line & Broadband,4.5 กลุ่มบริการ Satellite NT,102010404 บริการ NT iP Star
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.5,กลุ่มบริการ Satellite NT,102010406,บริการ NT Satellite Platform,4 Fixed Line & Broadband,4.5 กลุ่มบริการ Satellite NT,102010406 บริการ NT Satellite Platform
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.5,กลุ่มบริการ Satellite NT,102010407,บริการ NT Satellite Facilities,4 Fixed Line & Broadband,4.5 กลุ่มบริการ Satellite NT,102010407 บริการ NT Satellite Facilities
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.5,กลุ่มบริการ Satellite ไทยคม,102010409,Thaicom 4 Satellite Wholesale Transponder,4 Fixed Line & Broadband,4.5 กลุ่มบริการ Satellite ไทยคม,102010409 Thaicom 4 Satellite Wholesale Transponder
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.5,กลุ่มบริการ Satellite ไทยคม,102010410,Thaicom 4 Satellite Ratail Transponder,4 Fixed Line & Broadband,4.5 กลุ่มบริการ Satellite ไทยคม,102010410 Thaicom 4 Satellite Ratail Transponder
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.5,กลุ่มบริการ Satellite ไทยคม,102010411,Thaicom 6 Satellite Wholesale Transponder,4 Fixed Line & Broadband,4.5 กลุ่มบริการ Satellite ไทยคม,102010411 Thaicom 6 Satellite Wholesale Transponder
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.5,กลุ่มบริการ Satellite ไทยคม,102010412,Thaicom 6 Satellite Ratail Transponder,4 Fixed Line & Broadband,4.5 กลุ่มบริการ Satellite ไทยคม,102010412 Thaicom 6 Satellite Ratail Transponder
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.5,กลุ่มบริการ Satellite NT,102010413,บริการ DTH Platform,4 Fixed Line & Broadband,4.5 กลุ่มบริการ Satellite NT,102010413 บริการ DTH Platform
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.5,กลุ่มบริการ Satellite NT,102010414,Foreign Satellite Transponder,4 Fixed Line & Broadband,4.5 กลุ่มบริการ Satellite NT,102010414 Foreign Satellite Transponder
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.5,กลุ่มบริการ Satellite NT,103010016,บริการ NT e-Entertainment,4 Fixed Line & Broadband,4.5 กลุ่มบริการ Satellite NT,103010016 บริการ NT e-Entertainment
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.5,กลุ่มบริการ Satellite NT,204060002,บริการสื่อสัญญาณถ่ายทอดภาพและเสียง (TV Encoder Decoder),4 Fixed Line & Broadband,4.5 กลุ่มบริการ Satellite NT,204060002 บริการสื่อสัญญาณถ่ายทอดภาพและเสียง (TV Encoder Decoder)
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.5,กลุ่มบริการ Satellite NT,204070003,บริการ iP Star,4 Fixed Line & Broadband,4.5 กลุ่มบริการ Satellite NT,204070003 บริการ iP Star
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.6,กลุ่มบริการ USO และอื่นๆ,181010001,บริการโทรศัพท์ประจำที่-USO,4 Fixed Line & Broadband,4.6 กลุ่มบริการ USO และอื่นๆ,181010001 บริการโทรศัพท์ประจำที่-USO
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.6,กลุ่มบริการ USO และอื่นๆ,181010002,บริการโทรศัพท์สาธารณะ-USO,4 Fixed Line & Broadband,4.6 กลุ่มบริการ USO และอื่นๆ,181010002 บริการโทรศัพท์สาธารณะ-USO
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.6,กลุ่มบริการ USO และอื่นๆ,181010003,บริการอินเตอร์เน็ต-USO,4 Fixed Line & Broadband,4.6 กลุ่มบริการ USO และอื่นๆ,181010003 บริการอินเตอร์เน็ต-USO
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.6,กลุ่มบริการ USO และอื่นๆ,181019901,บริการโทรคมนาคมอื่นที่เกี่ยวเนื่อง-USO,4 Fixed Line & Broadband,4.6 กลุ่มบริการ USO และอื่นๆ,181019901 บริการโทรคมนาคมอื่นที่เกี่ยวเนื่อง-USO
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.6,กลุ่มบริการ USO และอื่นๆ,181020001,บริการโทรศัพท์เคลื่อนที่ในพื่นที่ชายขอบ,4 Fixed Line & Broadband,4.6 กลุ่มบริการ USO และอื่นๆ,181020001 บริการโทรศัพท์เคลื่อนที่ในพื่นที่ชายขอบ
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.6,กลุ่มบริการ USO และอื่นๆ,181020002,บริการสนับสนุนโรงพยาบาลสนาม,4 Fixed Line & Broadband,4.6 กลุ่มบริการ USO และอื่นๆ,181020002 บริการสนับสนุนโรงพยาบาลสนาม
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.6,กลุ่มบริการ USO และอื่นๆ,204990001,บริการทดสอบ/ซ่อม/ผลิต/ปรับเทียบ-อุปกรณ์,4 Fixed Line & Broadband,4.6 กลุ่มบริการ USO และอื่นๆ,204990001 บริการทดสอบ/ซ่อม/ผลิต/ปรับเทียบ-อุปกรณ์
+รายได้บริการโทรคมนาคม,4,Fixed Line & Broadband,4.6,กลุ่มบริการ USO และอื่นๆ,204990002,สิทธิในการใช้ระบบ,4 Fixed Line & Broadband,4.6 กลุ่มบริการ USO และอื่นๆ,204990002 สิทธิในการใช้ระบบ
+รายได้บริการโทรคมนาคม,5,Digital,5.1,กลุ่มบริการ Cloud & BigData,103030001,บริการ NT CLOUD,5 Digital,5.1 กลุ่มบริการ Cloud & BigData,103030001 บริการ NT CLOUD
+รายได้บริการโทรคมนาคม,5,Digital,5.1,กลุ่มบริการ Cloud & BigData,103030002,บริการ NT BIG DATA,5 Digital,5.1 กลุ่มบริการ Cloud & BigData,103030002 บริการ NT BIG DATA
+รายได้บริการโทรคมนาคม,5,Digital,5.1,กลุ่มบริการ Cloud & BigData,103030003,บริการ GDCC,5 Digital,5.1 กลุ่มบริการ Cloud & BigData,103030003 บริการ GDCC
+รายได้บริการโทรคมนาคม,5,Digital,5.1,กลุ่มบริการ Cloud & BigData,103030004,บริการ NT CLOUD: Cloud Service (Prepaid),5 Digital,5.1 กลุ่มบริการ Cloud & BigData,103030004 บริการ NT CLOUD: Cloud Service (Prepaid)
+รายได้บริการโทรคมนาคม,5,Digital,5.2,กลุ่มบริการ Data Center & IX,103040004,บริการ NT DATA CENTER,5 Digital,5.2 กลุ่มบริการ Data Center & IX,103040004 บริการ NT DATA CENTER
+รายได้บริการโทรคมนาคม,5,Digital,5.2,กลุ่มบริการ Data Center & IX,202020001,บริการ Thailand IX,5 Digital,5.2 กลุ่มบริการ Data Center & IX,202020001 บริการ Thailand IX
+รายได้บริการโทรคมนาคม,5,Digital,5.3,กลุ่มบริการ Cybersecurity & CCTV,103020104,บริการ Internet Security,5 Digital,5.3 กลุ่มบริการ Cybersecurity & CCTV,103020104 บริการ Internet Security
+รายได้บริการโทรคมนาคม,5,Digital,5.3,กลุ่มบริการ Cybersecurity & CCTV,103020105,บริการ Managed Security Service,5 Digital,5.3 กลุ่มบริการ Cybersecurity & CCTV,103020105 บริการ Managed Security Service
+รายได้บริการโทรคมนาคม,5,Digital,5.3,กลุ่มบริการ Cybersecurity & CCTV,103020106,บริการ Security Standard Consulting,5 Digital,5.3 กลุ่มบริการ Cybersecurity & CCTV,103020106 บริการ Security Standard Consulting
+รายได้บริการโทรคมนาคม,5,Digital,5.3,กลุ่มบริการ Cybersecurity & CCTV,103020107,บริการ Security System Integration (SSI),5 Digital,5.3 กลุ่มบริการ Cybersecurity & CCTV,103020107 บริการ Security System Integration (SSI)
+รายได้บริการโทรคมนาคม,5,Digital,5.3,กลุ่มบริการ Cybersecurity & CCTV,103020204,บริการ All@Secure,5 Digital,5.3 กลุ่มบริการ Cybersecurity & CCTV,103020204 บริการ All@Secure
+รายได้บริการโทรคมนาคม,5,Digital,5.3,กลุ่มบริการ Cybersecurity & CCTV,103024100,สินค้าโทรคมนาคม,5 Digital,5.3 กลุ่มบริการ Cybersecurity & CCTV,103024100 สินค้าโทรคมนาคม
+รายได้บริการโทรคมนาคม,5,Digital,5.4,กลุ่มบริการ Application & Digital Services,103010003,บริการ NT Conference,5 Digital,5.4 กลุ่มบริการ Application & Digital Services,103010003 บริการ NT Conference
+รายได้บริการโทรคมนาคม,5,Digital,5.4,กลุ่มบริการ Application & Digital Services,103010034,บริการ NT Messaging,5 Digital,5.4 กลุ่มบริการ Application & Digital Services,103010034 บริการ NT Messaging
+รายได้บริการโทรคมนาคม,5,Digital,5.4,กลุ่มบริการ Application & Digital Services,103010039,บริการ NT Space,5 Digital,5.4 กลุ่มบริการ Application & Digital Services,103010039 บริการ NT Space
+รายได้บริการโทรคมนาคม,5,Digital,5.4,กลุ่มบริการ Digital Platform และ Solution,103014100,สินค้าโทรคมนาคม,5 Digital,5.4 กลุ่มบริการ Digital Platform และ Solution,103014100 สินค้าโทรคมนาคม
+รายได้บริการโทรคมนาคม,5,Digital,5.4,กลุ่มบริการ Application & Digital Services,103019901,บริการโทรคมนาคมอื่นที่เกี่ยวเนื่อง-e-Business,5 Digital,5.4 กลุ่มบริการ Application & Digital Services,103019901 บริการโทรคมนาคมอื่นที่เกี่ยวเนื่อง-e-Business
+รายได้บริการโทรคมนาคม,5,Digital,5.4,กลุ่มบริการ Application & Digital Services,104110003,บริการ DSI,5 Digital,5.4 กลุ่มบริการ Application & Digital Services,104110003 บริการ DSI
+รายได้บริการโทรคมนาคม,5,Digital,5.5,กลุ่มบริการ DATA InterChange,103010021,บริการ NT EDI,5 Digital,5.5 กลุ่มบริการ DATA InterChange,103010021 บริการ NT EDI
+รายได้บริการโทรคมนาคม,5,Digital,5.5,กลุ่มบริการ DATA InterChange,103010036,บริการ NSW,5 Digital,5.5 กลุ่มบริการ DATA InterChange,103010036 บริการ NSW
+รายได้บริการโทรคมนาคม,5,Digital,5.5,กลุ่มบริการ DATA InterChange,103010038,บริการ NT e-Tax,5 Digital,5.5 กลุ่มบริการ DATA InterChange,103010038 บริการ NT e-Tax
+รายได้บริการโทรคมนาคม,5,Digital,5.5,กลุ่มบริการ DATA InterChange,104110001,บริการ IoT by CAT,5 Digital,5.5 กลุ่มบริการ DATA InterChange,104110001 บริการ IoT by CAT
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.1,กลุ่มบริการ Solution and Manage Service,204030016,บริการ Supervise & MA,6 ICT Solution,6.1 กลุ่มบริการ Solution and Manage Service,204030016 บริการ Supervise & MA
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.1,กลุ่มบริการ Solution and Manage Service,204030017,ICT Solution - รายย่อย,6 ICT Solution,6.1 กลุ่มบริการ Solution and Manage Service,204030017 ICT Solution - รายย่อย
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.1,กลุ่มบริการ Solution and Manage Service,205040015,ICT Solution,6 ICT Solution,6.1 กลุ่มบริการ Solution and Manage Service,205040015 ICT Solution
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.1,กลุ่มบริการ Solution and Manage Service,205040016,Manage Service,6 ICT Solution,6.1 กลุ่มบริการ Solution and Manage Service,205040016 Manage Service
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.1,กลุ่มบริการ Solution and Manage Service,205040018,บริการ NT Smart Q,6 ICT Solution,6.1 กลุ่มบริการ Solution and Manage Service,205040018 บริการ NT Smart Q
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.2,กลุ่มบริการ Contact Center,205040005,บริการ NT Ultimate Connect,6 ICT Solution,6.2 กลุ่มบริการ Contact Center,205040005 บริการ NT Ultimate Connect
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.2,กลุ่มบริการ Contact Center,205040006,บริการศูนย์บริการข้อมูล (Contact Center),6 ICT Solution,6.2 กลุ่มบริการ Contact Center,205040006 บริการศูนย์บริการข้อมูล (Contact Center)
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,204020013,บริการ NT SafeLog,6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,204020013 บริการ NT SafeLog
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,204030009,บริการ Cloud WAN,6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,204030009 บริการ Cloud WAN
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205010002,บริการ NT IDC,6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205010002 บริการ NT IDC
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205010004,บริการ CloudBusinessService,6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205010004 บริการ CloudBusinessService
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205010005,บริการ Application & Software - IDC & Cloud,6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205010005 บริการ Application & Software - IDC & Cloud
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205030002,Cyber Security,6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205030002 Cyber Security
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205030003,บริการระบบจดหมายอิเล็กทรอนิกส์ (e-Mail),6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205030003 บริการระบบจดหมายอิเล็กทรอนิกส์ (e-Mail)
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205030005,บริการ NT NetLog (Log Management System),6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205030005 บริการ NT NetLog (Log Management System)
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205030007,บริการ CCTV on Cloud,6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205030007 บริการ CCTV on Cloud
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205040004,บริการประชุมทางไกลทางอิเล็กทรอนิกส์ (e-Conference),6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205040004 บริการประชุมทางไกลทางอิเล็กทรอนิกส์ (e-Conference)
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205040008,ออกใบรับรองอิเล็กทรอนิกส์ (NT CA),6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205040008 ออกใบรับรองอิเล็กทรอนิกส์ (NT CA)
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205040011,บริการธุรกรรมพาณิชย์อิเล็กทรอนิกส์ (TOT e-Commerce),6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205040011 บริการธุรกรรมพาณิชย์อิเล็กทรอนิกส์ (TOT e-Commerce)
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205040013,บริการการศึกษาทางอิเล็กทรอนิกส์ (e-Education),6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205040013 บริการการศึกษาทางอิเล็กทรอนิกส์ (e-Education)
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205040014,บริการข้อมูลทางอิเล็กทรอนิกส์ (e-Information),6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205040014 บริการข้อมูลทางอิเล็กทรอนิกส์ (e-Information)
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205040017,บริการ ICT Solution Platform,6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205040017 บริการ ICT Solution Platform
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205060001,บริการ NT Prepaid,6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205060001 บริการ NT Prepaid
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205060003,บริการความบันเทิงทางอิเล็กทรอนิกส์ (e-Entertainment),6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205060003 บริการความบันเทิงทางอิเล็กทรอนิกส์ (e-Entertainment)
+รายได้บริการโทรคมนาคม,6,ICT Solution,6.3,กลุ่มบริการ ICT Solution & Platform,205060004,บริการ IPTV,6 ICT Solution,6.3 กลุ่มบริการ ICT Solution & Platform,205060004 บริการ IPTV
+รายได้บริการโทรคมนาคม,7,กลุ่มบริการอื่นไม่ใช่โทรคมนาคม,7.1,กลุ่มบริการอื่น,181060001,บริการอื่น-นอกจากพัฒนาสินทรัพย์,7 กลุ่มบริการอื่นไม่ใช่โทรคมนาคม,7.1 กลุ่มบริการอื่น,181060001 บริการอื่น-นอกจากพัฒนาสินทรัพย์
+รายได้บริการโทรคมนาคม,7,กลุ่มบริการอื่นไม่ใช่โทรคมนาคม,7.1,กลุ่มบริการอื่น,181060002,บริการ CAT CONTACT CENTER SOLUTION,7 กลุ่มบริการอื่นไม่ใช่โทรคมนาคม,7.1 กลุ่มบริการอื่น,181060002 บริการ CAT CONTACT CENTER SOLUTION
+รายได้บริการโทรคมนาคม,7,กลุ่มบริการอื่นไม่ใช่โทรคมนาคม,7.1,กลุ่มบริการอื่น,181060004,บริการรับจ้างทำงานให้ Vendor,7 กลุ่มบริการอื่นไม่ใช่โทรคมนาคม,7.1 กลุ่มบริการอื่น,181060004 บริการรับจ้างทำงานให้ Vendor
+รายได้บริการโทรคมนาคม,7,กลุ่มบริการอื่นไม่ใช่โทรคมนาคม,7.1,กลุ่มบริการอื่น,181064000,สินค้า Non Telecom,7 กลุ่มบริการอื่นไม่ใช่โทรคมนาคม,7.1 กลุ่มบริการอื่น,181064000 สินค้า Non Telecom
+รายได้บริการโทรคมนาคม,7,กลุ่มบริการอื่นไม่ใช่โทรคมนาคม,7.1,กลุ่มบริการอื่น,209010001,บริการอื่นที่ไม่ใช่โทรคมนาคม,7 กลุ่มบริการอื่นไม่ใช่โทรคมนาคม,7.1 กลุ่มบริการอื่น,209010001 บริการอื่นที่ไม่ใช่โทรคมนาคม
+รายได้บริการโทรคมนาคม,7,กลุ่มบริการอื่นไม่ใช่โทรคมนาคม,7.1,กลุ่มบริการอื่น,209014000,สินค้าและอุปกรณ์,7 กลุ่มบริการอื่นไม่ใช่โทรคมนาคม,7.1 กลุ่มบริการอื่น,209014000 สินค้าและอุปกรณ์
+รายได้อื่น,8,รายได้อื่น,8.1,ผลตอบแทนทางการเงิน,181070001,ดอกเบี้ยรับ,8 รายได้อื่น,8.1 ผลตอบแทนทางการเงิน,181070001 ดอกเบี้ยรับ
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020001,รายได้อื่น,8 รายได้อื่น,8.2 รายได้อื่น,192020001 รายได้อื่น
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020002,รายได้อื่น,8 รายได้อื่น,8.2 รายได้อื่น,192020002 รายได้อื่น
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020101,รายได้อื่น-IDD,8 รายได้อื่น,8.2 รายได้อื่น,192020101 รายได้อื่น-IDD
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020201,รายได้อื่น-DATACOM,8 รายได้อื่น,8.2 รายได้อื่น,192020201 รายได้อื่น-DATACOM
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020202,รายได้อื่น-Internet,8 รายได้อื่น,8.2 รายได้อื่น,192020202 รายได้อื่น-Internet
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020203,รายได้อื่น- VAS,8 รายได้อื่น,8.2 รายได้อื่น,192020203 รายได้อื่น- VAS
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020301,รายได้อื่น-e-Business,8 รายได้อื่น,8.2 รายได้อื่น,192020301 รายได้อื่น-e-Business
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020302,รายได้อื่น-IT Security,8 รายได้อื่น,8.2 รายได้อื่น,192020302 รายได้อื่น-IT Security
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020303,รายได้อื่น-Cloud Service,8 รายได้อื่น,8.2 รายได้อื่น,192020303 รายได้อื่น-Cloud Service
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020304,รายได้อื่น-IDC,8 รายได้อื่น,8.2 รายได้อื่น,192020304 รายได้อื่น-IDC
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020401,รายได้อื่น-my,8 รายได้อื่น,8.2 รายได้อื่น,192020401 รายได้อื่น-my
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020402,รายได้อื่น-CDMA-ภูมิภาค,8 รายได้อื่น,8.2 รายได้อื่น,192020402 รายได้อื่น-CDMA-ภูมิภาค
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020403,รายได้อื่น-HUTCH,8 รายได้อื่น,8.2 รายได้อื่น,192020403 รายได้อื่น-HUTCH
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020404,รายได้อื่น-วิทยุคมนาคม,8 รายได้อื่น,8.2 รายได้อื่น,192020404 รายได้อื่น-วิทยุคมนาคม
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020405,รายได้อื่น-วิทยุเรือเดินทะเล,8 รายได้อื่น,8.2 รายได้อื่น,192020405 รายได้อื่น-วิทยุเรือเดินทะเล
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020406,รายได้อื่น-Wholesale,8 รายได้อื่น,8.2 รายได้อื่น,192020406 รายได้อื่น-Wholesale
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192020407,รายได้อื่น-Tower,8 รายได้อื่น,8.2 รายได้อื่น,192020407 รายได้อื่น-Tower
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192028101,รายได้อื่น-บริการ USO,8 รายได้อื่น,8.2 รายได้อื่น,192028101 รายได้อื่น-บริการ USO
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192028103,รายได้อื่น-Infrastrature,8 รายได้อื่น,8.2 รายได้อื่น,192028103 รายได้อื่น-Infrastrature
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192028104,รายได้อื่น-พัฒนาสินทรัพย์-CAT Tower,8 รายได้อื่น,8.2 รายได้อื่น,192028104 รายได้อื่น-พัฒนาสินทรัพย์-CAT Tower
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192028105,รายได้อื่น-พัฒนาสินทรัพย์อื่น,8 รายได้อื่น,8.2 รายได้อื่น,192028105 รายได้อื่น-พัฒนาสินทรัพย์อื่น
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,192028106,รายได้อื่น-นอกจากพัฒนาสินทรัพย์,8 รายได้อื่น,8.2 รายได้อื่น,192028106 รายได้อื่น-นอกจากพัฒนาสินทรัพย์
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,199900001,กองทุนบำเหน็จฯ,8 รายได้อื่น,8.2 รายได้อื่น,199900001 กองทุนบำเหน็จฯ
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,199990000,รายได้อื่นค่าใช้จ่ายอื่น-พิพาท,8 รายได้อื่น,8.2 รายได้อื่น,199990000 รายได้อื่นค่าใช้จ่ายอื่น-พิพาท
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020101,รด.อื่น NT-ท่อร้อยสาย,8 รายได้อื่น,8.2 รายได้อื่น,292020101 รด.อื่น NT-ท่อร้อยสาย
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020102,รด.อื่น NT-สายใยแก้วฯ,8 รายได้อื่น,8.2 รายได้อื่น,292020102 รด.อื่น NT-สายใยแก้วฯ
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020103,รด.อื่น NT-เสาโทรคมฯ,8 รายได้อื่น,8.2 รายได้อื่น,292020103 รด.อื่น NT-เสาโทรคมฯ
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020104,รด.อื่น NT-พัฒนาส/ท,8 รายได้อื่น,8.2 รายได้อื่น,292020104 รด.อื่น NT-พัฒนาส/ท
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020199,รด.อื่น NT-บริการอื่น,8 รายได้อื่น,8.2 รายได้อื่น,292020199 รด.อื่น NT-บริการอื่น
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020201,รด.อื่น NT-บริการ IIG,8 รายได้อื่น,8.2 รายได้อื่น,292020201 รด.อื่น NT-บริการ IIG
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020202,รด.อื่น NT-Thai IX,8 รายได้อื่น,8.2 รายได้อื่น,292020202 รด.อื่น NT-Thai IX
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020203,รด.อื่น NT-Connectiv,8 รายได้อื่น,8.2 รายได้อื่น,292020203 รด.อื่น NT-Connectiv
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020204,รด.อื่น NT-เคเบิลใต้,8 รายได้อื่น,8.2 รายได้อื่น,292020204 รด.อื่น NT-เคเบิลใต้
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020205,รด.อื่น NT-IDD,8 รายได้อื่น,8.2 รายได้อื่น,292020205 รด.อื่น NT-IDD
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020301,รด.อื่น NT-สัญญาพันธฯ,8 รายได้อื่น,8.2 รายได้อื่น,292020301 รด.อื่น NT-สัญญาพันธฯ
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020302,รด.อื่น NT-Mo-Wholes,8 รายได้อื่น,8.2 รายได้อื่น,292020302 รด.อื่น NT-Mo-Wholes
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020303,รด.อื่น NT-Mo-Retail,8 รายได้อื่น,8.2 รายได้อื่น,292020303 รด.อื่น NT-Mo-Retail
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020304,รด.อื่น NT-Trunk Radio,8 รายได้อื่น,8.2 รายได้อื่น,292020304 รด.อื่น NT-Trunk Radio
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020305,"รด.อื่น NT-2G,3G,4G",8 รายได้อื่น,8.2 รายได้อื่น,"292020305 รด.อื่น NT-2G,3G,4G"
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020306,รด.อื่น NT-IoT Connect,8 รายได้อื่น,8.2 รายได้อื่น,292020306 รด.อื่น NT-IoT Connect
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020401,รด.อื่น NT-Wholes BB,8 รายได้อื่น,8.2 รายได้อื่น,292020401 รด.อื่น NT-Wholes BB
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020402,รด.อื่น NT-Retail BB,8 รายได้อื่น,8.2 รายได้อื่น,292020402 รด.อื่น NT-Retail BB
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020403,รด.อื่น NT-DataCom,8 รายได้อื่น,8.2 รายได้อื่น,292020403 รด.อื่น NT-DataCom
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020404,รด.อื่น NT-Retail Vo,8 รายได้อื่น,8.2 รายได้อื่น,292020404 รด.อื่น NT-Retail Vo
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020405,รด.อื่น NT-Whol Voic,8 รายได้อื่น,8.2 รายได้อื่น,292020405 รด.อื่น NT-Whol Voic
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020406,รด.อื่น NT-Broadcast,8 รายได้อื่น,8.2 รายได้อื่น,292020406 รด.อื่น NT-Broadcast
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020407,รด.อื่น NT-Satellite,8 รายได้อื่น,8.2 รายได้อื่น,292020407 รด.อื่น NT-Satellite
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020408,รด.อื่น NT-Intercone,8 รายได้อื่น,8.2 รายได้อื่น,292020408 รด.อื่น NT-Intercone
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020409,รด.อื่น NT-USO,8 รายได้อื่น,8.2 รายได้อื่น,292020409 รด.อื่น NT-USO
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020499,รด.อื่น NT-บริการอื่น,8 รายได้อื่น,8.2 รายได้อื่น,292020499 รด.อื่น NT-บริการอื่น
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020501,รด.อื่น NT-IDC&Cloud,8 รายได้อื่น,8.2 รายได้อื่น,292020501 รด.อื่น NT-IDC&Cloud
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020502,รด.อื่น NT-Big Data,8 รายได้อื่น,8.2 รายได้อื่น,292020502 รด.อื่น NT-Big Data
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020503,รด.อื่น NT-Cyber Security,8 รายได้อื่น,8.2 รายได้อื่น,292020503 รด.อื่น NT-Cyber Security
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020504,รด.อื่น NT-Digital P,8 รายได้อื่น,8.2 รายได้อื่น,292020504 รด.อื่น NT-Digital P
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020505,รด.อื่น NT-IoT,8 รายได้อื่น,8.2 รายได้อื่น,292020505 รด.อื่น NT-IoT
+รายได้อื่น,8,รายได้อื่น,8.2,รายได้อื่น,292020506,รด.อื่น NT-Digital C,8 รายได้อื่น,8.2 รายได้อื่น,292020506 รด.อื่น NT-Digital C
+รายได้อื่น,9,บริการตามนโยบายภาครัฐ,9.1,บริการตามนโยบายภาครัฐ,181080001,บริการสนับสนุนนโยบายรัฐ,9 บริการตามนโยบายภาครัฐ,9.1 บริการตามนโยบายภาครัฐ,181080001 บริการสนับสนุนนโยบายรัฐ
