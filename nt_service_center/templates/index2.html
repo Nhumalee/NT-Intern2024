@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>เส้นทางไปศูนย์บริการ</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Kanit', sans-serif;
+            background-color: #f4f6f9;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            min-height: 100vh;
+        }
+
+        h1 {
+            font-size: 2rem;
+            color: #2c3e50;
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .form-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 20px 0;
+            width: 100%;
+            max-width: 800px;
+        }
+
+        form {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+            width: 100%;
+        }
+
+        form input {
+            padding: 10px;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            width: calc(50% - 10px);
+            box-sizing: border-box;
+        }
+
+        form button,
+        #useCurrentLocation {
+            background-color: #2980b9;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: background-color 0.3s;
+            width: 100%;
+            max-width: 200px;
+        }
+
+        form button:hover,
+        #useCurrentLocation:hover {
+            background-color: #3498db;
+        }
+
+        .map-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+            width: 100%;
+            max-width: 1200px;
+        }
+
+        #map {
+            height: 500px;
+            width: 100%;
+            max-width: 600px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .card {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            flex: 1;
+            box-sizing: border-box;
+        }
+
+        .card h2 {
+            color: #2980b9;
+            font-size: 1.5rem;
+        }
+
+        .card p {
+            color: #34495e;
+            font-size: 1rem;
+            margin: 10px 0;
+        }
+
+        footer {
+            margin-top: 40px;
+            font-size: 1rem;
+            color: #7f8c8d;
+            text-align: center;
+        }
+
+        footer a {
+            color: #3498db;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media screen and (max-width: 768px) {
+            form input {
+                width: 100%;
+            }
+
+            .map-container {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            #map,
+            .card {
+                width: 90%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h1>เส้นทางไปศูนย์บริการ</h1>
+    <div class="container">
+        <button id="useCurrentLocation" class="button">ใช้ตำแหน่งปัจจุบัน</button>
+    </div>
+
+    <div class="form-container">
+        <form id="locationForm">
+            <input type="text" id="location" name="location"
+                placeholder="กรุณากรอกละติจูดและลองจิจูด (Latitude, Longitude)" required>
+            <button type="submit" class="button">ค้นหา</button>
+        </form>
+    </div>
+
+    <div class="map-container">
+        <div id="map"></div>
+
+        <div class="card">
+            <h2>ศูนย์บริการที่ใกล้ที่สุด</h2>
+            <p id="service-name">กำลังค้นหาศูนย์บริการ...</p>
+            <p id="service-address">ที่อยู่: กำลังค้นหา...</p>
+            <p id="service-phone">เบอร์โทร: กำลังค้นหา...</p>
+            <p id="service-code">หมายเลขศูนย์บริการ: กำลังค้นหา...</p>
+            <p id="service-bus-stops">ป้ายรถเมล์: กำลังค้นหา...</p>
+            <p id="service-opening-time">เวลาเปิดทำการ: กำลังค้นหา...</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>Powered by <a href="https://www.openrouteservice.org" target="_blank">OpenRouteService</a></p>
+    </footer>
+
+    <script>
+        let map = L.map('map').setView([13.736717, 100.523186], 13); // Default to Bangkok
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+
+        let userMarker, routeLine, centerMarker;
+
+        document.getElementById('useCurrentLocation').addEventListener('click', function () {
+            if (navigator.geolocation) {
+                // ดึงตำแหน่งปัจจุบัน
+                navigator.geolocation.getCurrentPosition(function (position) {
+                    const lat = position.coords.latitude;
+                    const lng = position.coords.longitude;
+
+                    // เรียกฟังก์ชันเพื่ออัพเดตตำแหน่งบนแผนที่
+                    updateUserMarker(lat, lng);
+                }, function (error) {
+                    alert('ไม่สามารถดึงตำแหน่งของคุณได้: ' + error.message);
+                });
+            } else {
+                alert('เบราว์เซอร์ของคุณไม่รองรับการดึงตำแหน่ง');
+            }
+        });
+
+        // ฟังก์ชันเมื่อคลิกแผนที่
+        map.on('click', function (event) {
+            const { lat, lng } = event.latlng;
+            updateUserMarker(lat, lng);
+        });
+
+
+
+        document.getElementById('locationForm').addEventListener('submit', function (event) {
+            event.preventDefault();  // Prevent form submission
+            const location = document.getElementById('location').value.trim();
+            const [latitude, longitude] = location.split(',').map(coord => parseFloat(coord.trim()));
+
+            if (!isNaN(latitude) && !isNaN(longitude)) {
+                // กรอกข้อมูลถูกต้อง จะแสดงพิกัดบนแผนที่
+                updateUserMarker(latitude, longitude);
+            } else {
+                alert("กรุณากรอกละติจูดและลองจิจูดในรูปแบบที่ถูกต้อง เช่น 13.781485, 100.670519");
+            }
+        });
+
+        
+        function updateUserMarker(lat, lng) {
+            // ตรวจสอบว่ามี marker เก่าหรือไม่ ถ้ามีให้ลบออก
+            if (userMarker) {
+                map.removeLayer(userMarker);
+            }
+
+            // สร้าง marker ใหม่ที่ตำแหน่งที่กรอก
+            userMarker = L.marker([lat, lng]).addTo(map).bindPopup('ตำแหน่งที่คุณอยู่').openPopup();
+
+            // เลื่อนแผนที่ไปยังพิกัดใหม่
+            map.setView([lat, lng], 13);
+
+            // เรียกฟังก์ชันเพื่อค้นหาศูนย์บริการที่ใกล้ที่สุด
+            fetchNearestService(lat, lng);
+        }
+
+        function fetchNearestService(lat, lng) {
+            fetch('/get_location', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ latitude: lat, longitude: lng })
+            })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.error) {
+                        alert(data.error);
+                        return;
+                    }
+
+                    const { closest_center, service_info, route } = data;
+
+                    if (centerMarker) map.removeLayer(centerMarker);
+                    if (routeLine) map.removeLayer(routeLine);
+
+                    centerMarker = L.marker([closest_center.lat, closest_center.lng]).addTo(map);
+                    routeLine = L.polyline(route.map(([lng, lat]) => [lat, lng]), { color: 'blue' }).addTo(map);
+
+                    document.getElementById('service-name').innerText = `ชื่อ: ${service_info.name}`;
+                    document.getElementById('service-address').innerText = `ที่อยู่: ${service_info.address}`;
+                    document.getElementById('service-phone').innerText = `เบอร์โทร: ${service_info.phone}`;
+                    document.getElementById('service-code').innerText = `หมายเลขศูนย์บริการ: ${service_info.service_code}`;
+                    document.getElementById('service-bus-stops').innerText = `ป้ายรถเมล์: ${service_info.bus_stops}`;
+                    document.getElementById('service-opening-time').innerText = `เวลาเปิดทำการ: ${service_info.opening_time}`;
+                })
+                .catch(err => alert("เกิดข้อผิดพลาด: " + err.message));
+        }
+    </script>
+</body>
+
+</html>
