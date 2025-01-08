@@ -10,15 +10,17 @@ import warnings
 
 
 # ตำแหน่ง และชื่อไฟล์
-input_file = r"C:/Users/NT/Desktop/Intern/Python/Python-Basic/joint/j0000_6710.txt"
-elec_bill_file = r"C:/Users/NT/Desktop/Intern/Python/Python-Basic/joint/electricity_bill_202410.csv"
-exclude_gl_file = r"C:/Users/NT/Desktop/Intern/Python/Python-Basic/joint/exclude_gl_code_joint.csv"
-expense_ratio_file = r"C:/Users/NT/Desktop/Intern/Python/Python-Basic/joint/expense_ratio_202411.csv"
-j0103_ratio_file = r"C:/Users/NT/Desktop/Intern/Python/Python-Basic/joint/j0103_ratio.xlsx"
+input_file = r"C:/Users/NT/Desktop/Intern/Python/Python-Basic/joint/j0000_6710.txt" #ไฟล์ j0000
+elec_bill_file = r"C:/Users/NT/Desktop/Intern/Python/Python-Basic/joint/electricity_bill_202410.csv" #ถ้าเซฟทับไฟล์เดิมก็ไม่ต้องเปลี่ยนที่อยู่ไฟล์
+exclude_gl_file = r"C:/Users/NT/Desktop/Intern/Python/Python-Basic/joint/exclude_gl_code_joint.csv" #
+expense_ratio_file = r"C:/Users/NT/Desktop/Intern/Python/Python-Basic/joint/expense_ratio.csv" 
+j0103_ratio_file = r"C:/Users/NT/Desktop/Intern/Python/Python-Basic/joint/j0103_ratio.xlsx" 
+
 
 # ตำแหน่งที่เก็บไฟล์ผลลัพธ์
-log_file = r"C:/Users/NT/Desktop/Intern/Python/Python-Basic/joint"
-output_file = r"C:/Users/NT/Desktop/Intern/Python/Python-Basic/joint"
+log_file = r"C:/Users/NT/Desktop/Intern/Python/Python-Basic/joint/Output/"
+output_file = r"C:/Users/NT/Desktop/Intern/Python/Python-Basic/joint/Output/"
+ 
 Path(log_file).mkdir(parents=True, exist_ok=True)
 Path(output_file).mkdir(parents=True, exist_ok=True)
 
@@ -26,6 +28,7 @@ template_header = ["เลขที่เอกสาร","บรรทัดร
 
 # เตรียม template
 df_template = pd.DataFrame(columns=template_header)
+
 
 # ระบุทุกเดือน
 month_name = "ต.ค. 67"
@@ -58,6 +61,7 @@ df = df[df["Unnamed:1"] == "*"].reset_index()
 # เลือกเฉพาะคอลัมน์ที่ต้องการ
 df = df[["ออบเจค", "สปก.ต้นทุน", "ชื่อส่วนประกอบต้นทุน", "Val.inrep.cur."]]
 
+
 #df.to_excel('df.xlsx')
 
 
@@ -89,6 +93,8 @@ print(df_summary)
 # สร้าง list regex แทนค่า x ด้ว \d
 regex_ex_gl = list(df_ex_gl["รหัสบัญชี"].str.replace("x", "\d"))
 # print(regex_ex_gl)
+
+
 
 # หา gl ที่ match กับ exclude gl เพื่อตัดออก
 # https://stackoverflow.com/questions/47011170/multiple-pattern-using-regex-in-pandas
@@ -134,10 +140,14 @@ elec_bill_ori["รหัสบัญชี"] = df_elec_bill["สปก.ต้น
 elec_bill_ori["ชื่อส่วนประกอบต้นทุน"] = df_elec_bill["ชื่อส่วนประกอบต้นทุน_bill"]
 elec_bill_ori["จำนวนเงินสกุลในเอกสาร"] = df_elec_bill["Val.in rep.cur._bill"]
 elec_bill_ori["จำนวนเงินสกุลในประเทศ"] = df_elec_bill["Val.in rep.cur._bill"]
+
+elec_bill_ori["ศูนย์ต้นทุน"] = df_elec_bill["ออบเจค_bill"].str[:7] ##
+
 elec_bill_ori["activity"] = df_elec_bill["ออบเจค_bill"].str[7:]
 elec_bill_ori["รหัสกิจกรรม"] = elec_bill_ori["activity"]
 elec_bill_ori["คีย์ผ่านรายการ"] = "50"
 elec_bill_ori["เซกเมนต์"] = df_elec_bill["เซกเมนต์"]
+
 elec_bill_ori["flag_elec_bill"] = True  # บอกให้รู้ว่าเป็นรายการค่าไฟฟ้า
 
 # เปลี่ยนเป็น GL ขึ้นต้นด้วย 51
@@ -146,6 +156,9 @@ elec_bill["รหัสบัญชี"] = "51" + df_elec_bill["สปก.ต้
 elec_bill["ชื่อส่วนประกอบต้นทุน"] = df_elec_bill["ชื่อส่วนประกอบต้นทุน_bill"]
 elec_bill["จำนวนเงินสกุลในเอกสาร"] = df_elec_bill["Val.in rep.cur._bill"]
 elec_bill["จำนวนเงินสกุลในประเทศ"] = df_elec_bill["Val.in rep.cur._bill"]
+
+elec_bill["ศูนย์ต้นทุน"] = df_elec_bill['ออบเจค_bill'].str[:7] ##
+
 elec_bill["activity"] = df_elec_bill["ออบเจค_bill"].str[7:]
 elec_bill["รหัสกิจกรรม"] = elec_bill["activity"]
 elec_bill["คีย์ผ่านรายการ"] = "40"
@@ -154,6 +167,7 @@ elec_bill["flag_elec_bill"] = True # บอกให้รู้ว่าเป�
 
 elec_bill_template = pd.concat([elec_bill_ori, elec_bill])
 #print(elec_bill_template)
+
 
 # print("ข้อมูลค่าไฟฟ้า รหัสบัญชีขึ้นด้วย 51 ที่ใส่กลับและต้องเปลี่ยนรหัสกิจกรรม")
 # row_filter = elec_bill.loc[(elec_bill["flag_elec_bill"] == True) & (elec_bill["รหัสบัญชี"].str[:2] == "51")]
@@ -243,13 +257,12 @@ for file in range(len(list_df)):
 # gc.collect()
 df_cal_ratio = pd.concat(list_)
 # file ค่าไฟฟ้านับต่อจากข้อมูล ปรับ joint
+
 elec_bill_template["file"] = n + 1
 
 
 # save ลง log file เพื่อใช้ตรวจสอบ
 df_cal_ratio.to_excel(Path(log_file + "joint_log_" + doc_date + ".xlsx"), float_format="%.4f")
-
-
 
 
 # นับจำนวนบรรทัดแยกตามกิจกรรม
@@ -382,11 +395,11 @@ print(data_dict.values())
 
 # เอาค่าไฟฟ้ามารวม
 df_merge = pd.concat([df_merge, elec_bill_template])
-#df_merge.to_excel('df_merge.xlsx')
 
 # 
 # https://stackoverflow.com/questions/17775935/sql-like-window-functions-in-pandas-row-numbering-in-python-pandas-dataframe
 # df['RN'] = df.sort_values(['data1','data2'], ascending=[True,False]).groupby(['key1']).cumcount() + 1
+
 
 # กำหนดเลขบรรทัด ตาม column ที่กำหนด, กำหนดที่ file column
 df_merge["บรรทัดรายการ"] = df_merge.groupby(["file"]).cumcount() + 1
@@ -417,10 +430,10 @@ df_merge.loc[df_merge["flag_elec_bill"]==True, "activity"] = df_merge.loc[df_mer
 # ถ้ารหัสบัญชีเป็น 5x7xxxxx ให้ segment = 19301 ; regex "5\d7\d\d\d\d\d" 
 # ถ้ารหัสบัญชีเป็น 5x6xxxxx ให้ segment = 19201 ; regex "5\d6\d\d\d\d\d"
 df_merge["เซกเมนต์"] = ""
-segment = df_merge["รหัสบัญชี"].str.match("5\d7\d\d\d\d\d")    # หาบรรทัดที่ GL เป็น 5x7xxxxx
+segment = df_merge["รหัสบัญชี"].str.match( "5\d7\d\d\d\d\d" )    # หาบรรทัดที่ GL เป็น 5x7xxxxx
 df_merge.loc[segment, "เซกเมนต์"] = "19301"
 
-segment = df_merge["รหัสบัญชี"].str.match("5\d6\d\d\d\d\d")    # หาบรรทัดที่ GL เป็น 5x6xxxxx
+segment = df_merge["รหัสบัญชี"].str.match( "5\d6\d\d\d\d\d" )    # หาบรรทัดที่ GL เป็น 5x6xxxxx
 df_merge.loc[segment, "เซกเมนต์"] = "19201"
 
 # df_merge = df_merge.reset_index(drop=True)
@@ -431,6 +444,7 @@ with warnings.catch_warnings():
     # TODO: pandas 2.1.0 has a FutureWarning for concatenating DataFrames with Null entries
     warnings.filterwarnings("ignore", category=FutureWarning)
     df_template_output = pd.concat([df_merge, df_template], axis=0, ignore_index=True)
+
 
 '''df_template["เลขที่เอกสาร"] = df_merge["เลขที่เอกสาร"]
 df_template["บรรทัดรายการ"] = df_merge["บรรทัดรายการ"]
@@ -469,6 +483,20 @@ for file, group in df_template_output.groupby(df_template_output["file"]):
 
 # เอาเฉพาะ column ที่กำหนด
 df_template_output = df_template_output[template_header]
+
+
+#ตรวจสอบค่าว่า 40=50 หรือไม่
+
+#pivot ตารางเพื่อตรวจสอบ
+pivot_table = df_template_output.pivot_table(index='เลขที่เอกสาร', columns='คีย์ผ่านรายการ', values='จำนวนเงินสกุลในเอกสาร', aggfunc='sum')
+
+# 40 - 50 = 0 
+pivot_table['ผลต่าง'] = pivot_table['40'] - pivot_table['50']
+
+#แสดงผล
+print(pivot_table)
+
+
 
 # เขียนผลลัพธ์ลงไฟล์
 df_template_output.to_csv(Path(output_file + "joint_template_" + doc_date + ".csv"), index=False, header=True, float_format="%.2f")
